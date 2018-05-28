@@ -29,7 +29,7 @@ section {
   padding: 20px;
 }
 
-.milk-text {
+[class="milk-text"] {
   display: block;
   padding: 15px 0 0;
 }
